@@ -75,14 +75,4 @@
     </snapshotRepository>
     -->
 	</distributionManagement>
-=======
-
-		<dependency>
-			<groupId>org.powermock</groupId>
-			<artifactId>powermock-api-mockito</artifactId>
-			<version>1.4.7</version>
-			<scope>test</scope>
-		</dependency>
-	</dependencies>
->>>>>>> branch 'master' of https://github.com/zangxiaoqiang/MiniCommon.git
 </project>

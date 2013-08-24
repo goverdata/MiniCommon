@@ -1,4 +1,4 @@
-package com.github.dtf.utils;
+package com.github.common.utils;
 
 public class StringUtils {
 

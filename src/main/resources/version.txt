@@ -1,0 +1,1 @@
+GIT_API:Version=${project.version}, Build Number=${jenkins.build.number}
