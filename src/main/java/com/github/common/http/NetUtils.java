@@ -1,4 +1,4 @@
-package com.github.common.utils;
+package com.github.common.http;
 
 import java.io.IOException;
 import java.io.InputStream;

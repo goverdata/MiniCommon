@@ -1,4 +1,4 @@
-package com.github.common.utils;
+package com.github.common.string;
 
 public class StringUtils {
 
